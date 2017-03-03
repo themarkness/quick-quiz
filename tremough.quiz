@@ -1,0 +1,31 @@
+// example quiz text
+// @themarkness
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://themarkness.github.io/quick-quiz/
+
+// this is the title of the quiz
+# What is the original meaning of Tremough?
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+1) Which of the following is the most real?
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  - Student Park
+  - Tree Park
+  * Pig Farm
+  - Cyder Farm
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+The traditiional meaning is pig farm, tremough later became the place of a convent before the site was purchased by Falmouth University in blah blah blah
+
+  // this image will appear along with
+  // the question pompt
+  (image) tremough.jpg
