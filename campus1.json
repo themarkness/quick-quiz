@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Cat",
+        "Dog",
+        "Monkey"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 2,
+      "prompt": "What is a cat?"
+    },
+    {
+      "answers": [
+        "Cat",
+        "Dog"
+      ],
+      "correct": {},
+      "number": 3,
+      "prompt": "What is a monkey?"
+    }
+  ],
+  "title": "How well do you Penryn Campus?",
+  "url": "http://themarkness.github.io/quick-quiz/"
+}

@@ -1,0 +1,38 @@
+// example quiz text
+// @themarkness
+
+// this is the url for the parent
+url: http://themarkness.github.io/quick-quiz/
+
+// this is the title of the quiz
+# How well do you Penryn Campus?
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+1) In how many languages is the word 'Welcome' displayed on the wall outside the Exchange building?
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  - 1
+  - 100
+  * 10
+  - 3
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+There are many languages. Penryn Campus is home to some international students!
+
+2) What is a cat?
+
+  - Cat
+  - Dog
+  * Monkey
+
+3) What is a monkey?
+
+  - Cat
+  - Dog
+  - Monkey
