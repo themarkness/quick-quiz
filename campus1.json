@@ -16,16 +16,12 @@
     },
     {
       "answers": [
-        "Yellow",
-        "Mauve",
-        "Ochre"
+        "Cat",
+        "Dog"
       ],
-      "correct": {
-        "index": 0,
-        "text": "//"
-      },
+      "correct": {},
       "number": 3,
-      "prompt": "What colour are the student ambassador hoodies?"
+      "prompt": "What is a monkey?"
     }
   ],
   "title": "How well do you Penryn Campus?",
