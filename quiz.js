@@ -98,7 +98,7 @@ var $indicators = $('<ol>')
 
     })
     .appendTo($start_button);
-  
+
   $indicators
     .appendTo($quiz);
 
@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">You can now move on to your next location. Share your results with your friends!</div>')
+    .html('<div id = "social-text">You can now move on to your next location.Share your results with your friends!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -281,10 +281,10 @@ var $indicators = $('<ol>')
   var $facebook_link = $('<a>')
     .html('<span class="social social-facebook follow-fb"></span>')
     .appendTo($social);
-  
+
   var $map = $("<div>")
     .attr('class', 'results-map')
-    .html('<div id = "map">You can now move on to your next location. Share your results with your friends!</div>')
+    .html('<div class="w3w-embed w3w-medium"><style type="text/css">@import url("https://assets.what3words.com/css/w3w-glyphicon.css");</style><div class="w3w-address"><i class="w3w-logo w3w-red"></i><span class="addr">daring.lion.race</span></div><div class="w3w-popup"><div class="w3w-popup-inner">what3words gives every 3m x 3m in the world a unique 3 word address. This one describes the precise entrance of the hostel. <a href="http://what3words.com/about/" target="_blank">Click here to learn more.</a></div></div></div>')
     .appendTo($results_slide);
 
   $("<button>")
@@ -359,4 +359,3 @@ function facebook(state, opts) {
 
 
 })(jQuery);
-
