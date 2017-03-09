@@ -25,11 +25,19 @@ url: http://themarkness.github.io/quick-quiz/
   // the question correctly
 There are many languages. Penryn Campus is home to some international students!
 
-2) What is a cat?
+2) In how many languages is the word 'Welcome' displayed on the wall outside the Exchange building?
 
-  - Cat
-  - Dog
-  * Monkey
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  - 1
+  - 100
+  * 10
+  - 3
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+There are many languages. Penryn Campus is home to some international students!
 
 3) What is a monkey?
 
