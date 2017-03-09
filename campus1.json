@@ -3,18 +3,6 @@
     {
       "answers": [
         "Cat",
-        "Dog",
-        "Monkey"
-      ],
-      "correct": {
-        "index": 2
-      },
-      "number": 2,
-      "prompt": "What is a cat?"
-    },
-    {
-      "answers": [
-        "Cat",
         "Dog"
       ],
       "correct": {},
