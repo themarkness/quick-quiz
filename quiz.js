@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
+    .html('<div id = "social-text">You can now move on to your next location. Share your results with your friends!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -281,6 +281,11 @@ var $indicators = $('<ol>')
   var $facebook_link = $('<a>')
     .html('<span class="social social-facebook follow-fb"></span>')
     .appendTo($social);
+  
+  var $map = $("<div>")
+    .attr('class', 'results-map')
+    .html('<div id = "map">You can now move on to your next location. Share your results with your friends!</div>')
+    .appendTo($results_slide);
 
   $("<button>")
     .attr('class', 'quiz-button btn')
