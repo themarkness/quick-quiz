@@ -284,7 +284,7 @@ var $indicators = $('<ol>')
 
   var $map = $("<div>")
     .attr('class', 'results-map')
-    .html('<div class="w3w-embed w3w-medium"><style type="text/css">@import url("https://assets.what3words.com/css/w3w-glyphicon.css");</style><div class="w3w-address"><i class="w3w-logo w3w-red"></i><span class="addr">daring.lion.race</span></div><div class="w3w-popup"><div class="w3w-popup-inner">what3words gives every 3m x 3m in the world a unique 3 word address. This one describes the precise entrance of the hostel. <a href="http://what3words.com/about/" target="_blank">Click here to learn more.</a></div></div></div>')
+    .html('<div class="w3w-embed w3w-medium"><style type="text/css">@import url("https://assets.what3words.com/css/w3w-glyphicon.css");</style><div class="w3w-address"><i class="w3w-logo w3w-red"></i><span class="addr">stages.stunner.revisits</span></div><div class="w3w-popup"><div class="w3w-popup-inner">what3words gives every 3m x 3m in the world a unique 3 word address. This one describes the precise entrance of the hostel. <a href="http://what3words.com/about/" target="_blank">Click here to learn more.</a></div></div></div>')
     .appendTo($results_slide);
 
   $("<button>")
