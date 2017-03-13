@@ -98,6 +98,10 @@ html, body {
   font-weight: bold;
 }
 
+.results-map {
+  text-align: center;
+}
+
 .results-social {
     width: 270px;
     clear: both;
