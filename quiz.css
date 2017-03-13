@@ -110,6 +110,8 @@ html, body {
 #social-text{
   margin-bottom: 20px;
   width: 275px;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .results-social a:not(:first-child) {
@@ -132,7 +134,7 @@ html, body {
 }
 
 .show{
- display:table !important; 
+ display:table !important;
 }
 
 .progress-circles li{
@@ -158,7 +160,7 @@ html, body {
   width: 32px;
 }
 .follow-tw:hover{
- background-position: 0 -1401px;   
+ background-position: 0 -1401px;
 }
 .follow-fb {
   display: inline-block;
@@ -169,7 +171,7 @@ html, body {
   width: 32px;
 }
 .follow-fb:hover{
- background-position: 0 -1433px;   
+ background-position: 0 -1433px;
 }
 
 
