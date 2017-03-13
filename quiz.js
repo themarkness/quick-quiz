@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">You can now move on to your next location!</div>')
+    .html('<div id = "social-text">You may now move on to your <a href="https://www.google.com/maps/d/edit?mid=1eELlHsFPyqIXQ_DDEm_hkCx4ZVY&ll=50.169977372467486%2C-5.12440139765738&z=21">next location!</a></div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -281,11 +281,6 @@ var $indicators = $('<ol>')
   var $facebook_link = $('<a>')
     .html('<span class="social social-facebook follow-fb"></span>')
     .appendTo($social);
-
-  var $map = $("<div>")
-    .attr('class', 'results-map')
-    .html('<div class="map"><iframe src="https://www.google.com/maps/d/embed?mid=1eELlHsFPyqIXQ_DDEm_hkCx4ZVY" width="640" height="480"></iframe></div>')
-    .appendTo($results_slide);
 
   $("<button>")
     .attr('class', 'quiz-button btn')
