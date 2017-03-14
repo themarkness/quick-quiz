@@ -194,3 +194,10 @@ html, body {
   display: none;
 }
 }
+
+span.social.social-twitter.follow-tw {
+display: none;}
+
+span.social.social-facebook.follow-fb {
+    display: none;
+}
