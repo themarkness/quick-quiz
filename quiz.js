@@ -274,13 +274,13 @@ var $indicators = $('<ol>')
     .html('<div id = "social-text">You may now move on to your <a href="https://www.google.com/maps/d/edit?mid=1eELlHsFPyqIXQ_DDEm_hkCx4ZVY&ll=50.169977372467486%2C-5.12440139765738&z=21">next location!</a></div>')
     .appendTo($results_slide);
 
-  //var $twitter_link = $('<a>')
-  //  .html('<span class="social social-twitter follow-tw"></span>')
-  //  .appendTo($social);
+  var $twitter_link = $('<a>')
+    .html('<span class="social social-twitter follow-tw"></span>')
+    .appendTo($social);
 
-  // var $facebook_link = $('<a>')
-  //  .html('<span class="social social-facebook follow-fb"></span>')
-  //  .appendTo($social);
+   var $facebook_link = $('<a>')
+    .html('<span class="social social-facebook follow-fb"></span>')
+    .appendTo($social);
 
   $("<button>")
     .attr('class', 'quiz-button btn')
