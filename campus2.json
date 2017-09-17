@@ -20,7 +20,7 @@
         "7"
       ],
       "correct": {
-        "index": 0,1,2
+        "index": 0,
         "text": "Some text here as a description"
       },
       "number": 2,
