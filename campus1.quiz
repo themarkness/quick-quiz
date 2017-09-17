@@ -5,36 +5,41 @@
 url: http://themarkness.github.io/quick-quiz/
 
 // this is the title of the quiz
-# How well do you Penryn Campus?
+# Quiz 1: Italian gardens (Location B)
 
 // this is an example question.
 // the number signifies the question order,
 // meaning questions can be placed in random order
 // within the file
-1) In how many languages is the word 'Welcome' displayed on the wall outside the Exchange building?
+1) If 28 =♦ and 8 = O What does a teardrop = ?
+
+
 
   // these are answers, a correct answer
   // is indicated by a "*"
   - 1
+  - 4
+  * 6
   - 100
-  * 10
+
+Some text here as a description
+
+2) Which of these pairs rest here?
+
+
+  - Smith & Jones
+  * Wake & Higgins
+  - Penhaligon & Trewellard
+
+Some text here as a description
+
+3) How many stairs between the blue wooden shelter and the fish pond on the lawn?
+
+  * 100
   - 3
+  - 8
+  - 67
 
-There are many languages. Penryn Campus is home to some international students!
-
-2) In how many languages is the word 'Welcome' displayed on the wall outside the Exchange building?
-
-  - 1
-  - 100
-  * 10
-  - 3
-
-There are many languages. Penryn Campus is home to some international students!
-
-3) What colour are the student ambassador hoodies?
-
-  * Yellow
-  - Mauve
-  - Ochre
+  Some text here as a description
 
   //
