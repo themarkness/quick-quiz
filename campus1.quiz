@@ -11,9 +11,8 @@ url: http://themarkness.github.io/quick-quiz/
 // the number signifies the question order,
 // meaning questions can be placed in random order
 // within the file
-1) If 28 =♦ and 8 = O What does a teardrop = ?
 
-
+1) If 28 = ♦ and 8 = O What does a teardrop = ?
 
   // these are answers, a correct answer
   // is indicated by a "*"

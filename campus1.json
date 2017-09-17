@@ -2,6 +2,20 @@
   "questions": [
     {
       "answers": [
+        "1",
+        "4",
+        "6",
+        "100"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Some text here as a description"
+      },
+      "number": 2,
+      "prompt": "Which of these pairs rest here?"
+    },
+    {
+      "answers": [
         "Smith & Jones",
         "Wake & Higgins",
         "Penhaligon & Trewellard"
