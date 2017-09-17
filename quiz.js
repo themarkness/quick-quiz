@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">You may now move on to your <a href="https://www.google.com/maps/d/edit?mid=1eELlHsFPyqIXQ_DDEm_hkCx4ZVY&ll=50.169977372467486%2C-5.12440139765738&z=21">next location!</a></div>')
+    .html('<div id = "social-text">Steph - should this tell them about their <a href="#">next location?</a></div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -337,7 +337,7 @@ function tweet(state, opts) {
   var body = (
     "I got " + state.correct +
     " out of " + state.total +
-    " on @taxpolicycenter’s \"" + opts.title +
+    " on @@Steph_Comley’s \"" + opts.title +
     "\" quiz. Test your knowledge here: " + opts.url
   );
 
