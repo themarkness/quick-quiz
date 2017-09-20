@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">You can go to your <a href="https://s-comley.github.io/C.html">next location!</a></div>')
+    .html('<div id = "social-text">Now return to base unless you have all the clues for the secret location</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')

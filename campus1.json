@@ -9,7 +9,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Some text here as a description"
+        "text": "There’s another chance for the secret clue on the next question"
       },
       "number": 1,
       "prompt": "If 28 = ♦ and 8 = O What does a teardrop = ?"
@@ -22,7 +22,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Some text here as a description"
+        "text": "There’s another chance for the secret clue on the next question"
       },
       "number": 2,
       "prompt": "Which of these pairs rest here?"

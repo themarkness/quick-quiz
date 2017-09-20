@@ -8,7 +8,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Some text here as a description"
+        "text": "There’s another chance for the secret clue on the next question"
       },
       "number": 1,
       "prompt": "A red and white square located here contains:"
@@ -21,7 +21,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Some text here as a description"
+        "text": "There’s another chance for the secret clue on the next question"
       },
       "number": 2,
       "prompt": "How many people did it take you to form a human chain around the grassed area on top of the Performance centre?"

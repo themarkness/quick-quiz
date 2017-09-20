@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Option 1:  R, B, B, G, R, G, R, G, G, G",
+        "Option 2: R, B, B, B, R, G, R, G, G, B",
+        "Option 3: B, B, R, G, R , G, R, B, B, B"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "There’s another chance for the secret clue on the next question"
+      },
+      "number": 1,
+      "prompt": "Question 1"
+    },
+    {
+      "answers": [
+        "Option 1: G, R, R, B, R, B, G, R, G, R",
+        "Option 2: B, R, R, B, R, B, G, G, R, R",
+        "Option 3: B, R, R, B, R, B, G, G, R, B"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "There’s another chance for the secret clue on the next question"
+      },
+      "number": 2,
+      "prompt": "Question 2"
+    }
+    {
+      "answers": [
+        "Option 1: B, G, R, B, G, R, B, G, G, R",
+        "Option 2: G, R, R, G, B, R, G, B, B, B",
+        "Option 3: G, R, R, G, B, R, G, B, B, R"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "There’s another chance for the secret clue on the next question"
+      },
+      "number": 3,
+      "prompt": "Question 3"
+    },
+  ],
+  "title": "Quiz 3: Performance centre (Location E)",
+  "url": "http://themarkness.github.io/quick-quiz/"
+}
