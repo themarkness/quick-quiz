@@ -9,7 +9,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "(collect all five clues before trying to locate) Clue 2: Walk to the bottom of all of the steps"
       },
       "number": 1,
       "prompt": "If 28 = ♦ and 8 = O What does a teardrop = ?"
@@ -22,7 +22,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "(collect all five clues before trying to locate) Clue 2: Walk to the bottom of all of the steps"
       },
       "number": 2,
       "prompt": "Which of these pairs rest here?"
@@ -36,7 +36,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Clue"
+        "text": "(collect all five clues before trying to locate) Clue 2: Walk to the bottom of all of the steps"
       },
       "number": 3,
       "prompt": "How many stairs between the blue wooden shelter and the fish pond on the lawn?"
