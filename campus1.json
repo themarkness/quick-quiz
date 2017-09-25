@@ -30,12 +30,12 @@
     {
       "answers": [
         "100",
-        "3",
+        "51",
         "8",
         "67"
       ],
       "correct": {
-        "index": 0,
+        "index": 1,
         "text": "Clue"
       },
       "number": 3,
