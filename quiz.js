@@ -181,7 +181,7 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Drat",
+         title: "Drat",
           text: (
             "Nope, not quite right!<br/><br/>" +
             "The correct answer was \"" +
@@ -191,7 +191,7 @@ var $indicators = $('<ol>')
               question.correct.text +
               "</div>"
             ) : "")
-            ),
+),
           type: "error"
         });
       }
