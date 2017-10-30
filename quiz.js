@@ -183,15 +183,7 @@ var $indicators = $('<ol>')
         opts = $.extend(opts, {
          title: "Drat",
           text: (
-             "Nope, not quite right!<br/><br/>" +
-             "The correct answer was \"" +
-             question.answers[question.correct.index] + "\"." + (
-             question.correct.text ?
-             ("<div class=\"correct-text\">" +
-              question.correct.text +
-              "</div>"
-             ) : "")
-),
+             "Nope, not quite right!<br/><br/>"),
           type: "error"
         });
       }
