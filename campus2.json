@@ -8,23 +8,23 @@
       ],
       "correct": {
         "index": 1,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "Clue 5: From the gate posts, turn around to face campus. Walk 15 paces and turn left down the steps, left at the bottom of the steps."
       },
       "number": 1,
       "prompt": "A red and white square located here contains:"
     },
     {
       "answers": [
-        "5",
-        "6",
-        "7"
+        "Concluding",
+        "Conclusion",
+        "Concluded"
       ],
       "correct": {
         "index": 0,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "Clue 5: From the gate posts, turn around to face campus. Walk 15 paces and turn left down the steps, left at the bottom of the steps."
       },
       "number": 2,
-      "prompt": "How many people did it take you to form a human chain around the grassed area on top of the Performance centre?"
+      "prompt": "Open envelope marked Location E, follow the instructions before answering this question"
     }
   ],
   "title": "Quiz 3: Performance centre (Location E)",
