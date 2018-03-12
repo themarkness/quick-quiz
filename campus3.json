@@ -8,7 +8,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "Clue 4: Walk to the end of the path"
       },
       "number": 1,
       "prompt": "Question 1"
@@ -21,7 +21,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "Clue 4: Walk to the end of the path"
       },
       "number": 2,
       "prompt": "Question 2"
@@ -34,7 +34,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "There’s another chance for the secret clue on the next question"
+        "text": "Clue 4: Walk to the end of the path"
       },
       "number": 3,
       "prompt": "Question 3"
